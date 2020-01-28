@@ -1,3 +1,7 @@
+# Project-specific files
+.DS_Store
+.mapbox_token
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
